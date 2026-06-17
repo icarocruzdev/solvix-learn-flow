@@ -1,5 +1,10 @@
 # Solvix Learn Flow
 
+🔗 Demonstração: https://solvix-learn-flow.base44.app
+
+O objetivo foi criar uma plataforma educacional capaz de centralizar cursos, materiais de estudo e ferramentas de aprendizagem em um único ambiente acessível e intuitivo.
+
+
 ## Sobre o Projeto
 
 O Solvix Learn Flow é um protótipo de plataforma educacional desenvolvido com o objetivo de centralizar cursos, materiais de estudo e ferramentas de aprendizagem em um único ambiente.
